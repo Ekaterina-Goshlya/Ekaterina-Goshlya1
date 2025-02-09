@@ -1,2 +1,1 @@
-# Ekaterina-Goshlya1
-Practicum_projects
+# Practicum_projects
